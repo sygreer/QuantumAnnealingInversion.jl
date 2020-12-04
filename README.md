@@ -32,5 +32,6 @@ Authors
 ------
 
 Sarah Greer, <sygreer@mit.edu>
+
 Daniel O'Malley, <omalled@lanl.gov>
 
