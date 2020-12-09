@@ -1,6 +1,10 @@
 QuantumAnnealingInversion: Using a quantum annlear to solve inverse problems in Julia
 ===============================
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4313834.svg)](https://doi.org/10.5281/zenodo.4313834)
+
+
 Description
 -----------
 
